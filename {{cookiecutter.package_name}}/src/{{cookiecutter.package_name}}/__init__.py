@@ -1,1 +1,1 @@
-from {{cookicutter.package_name}}.{{cookicutter.package_name}} import *
+from {{cookiecutter.package_name}}.{{cookiecutter.package_name}} import *
